@@ -28,6 +28,7 @@ Looking at the seasonality chart of ride fares in USD:
 * Starting mid April, there is a decrease in ride fare in urban and rural areas;
 * The opposite trend is observed for semi-urban areas: We notice an increase in fares around the same period.
 
+![seasonality](/analysis/Challenge_fare_summary.png)
 
 ## Summary: 
 
