@@ -22,6 +22,7 @@ Because there is a higher supply in urban areas as compared to rural and suburba
 * Average per driver is about $8 higher in rural areas as compared to urban areas and nearly $6 higher when compared to suburban areas
 
 **Summary dataframe: **
+
 <img width="590" alt="Screen Shot 2022-09-28 at 22 04 13" src="https://user-images.githubusercontent.com/80678332/192921987-2bbe2142-7460-4389-8137-74e1a6a6ff80.png">
 
 
@@ -31,6 +32,7 @@ Looking at the seasonality chart of ride fares in USD:
 * The opposite trend is observed for semi-urban areas: We notice an increase in fares around the same period.
 
 **Summary seasonality chart: **
+
 <img width="989" alt="Screen Shot 2022-09-28 at 22 05 34" src="https://user-images.githubusercontent.com/80678332/192922117-122f8ec7-dcc7-445f-948f-3b586d23c532.png">
 
 ## Summary: 
