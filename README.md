@@ -21,6 +21,8 @@ Because there is a higher supply in urban areas as compared to rural and suburba
 * Average fares per ride are $10 higher in rural areas as compared to urban areas and nearly $4 higher when compared to suburban areas
 * Average per driver is about $8 higher in rural areas as compared to urban areas and nearly $6 higher when compared to suburban areas
 
+![summary_df](/analysis/Summary_Dataframe.png)
+
 Looking at the seasonality chart of ride fares in USD: 
 * There is a price peak around the end of Feb for all 3 areas;
 * Starting mid April, there is a decrease in ride fare in urban and rural areas;
